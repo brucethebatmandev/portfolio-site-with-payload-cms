@@ -1,0 +1,8 @@
+{
+    "[typescript]": {
+      "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "deno.enablePaths": [],
+    "deno.lint": true,
+    "deno.unstable": true
+  }
